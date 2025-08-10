@@ -1,0 +1,39 @@
+.navbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;  
+   
+}
+
+.navbar-logo {
+    display: flex;
+    align-items: center;
+}
+  
+.logo-img {
+    max-width: 150px; /* Adjust the maximum width as needed */
+    height: auto;
+}
+
+
+.navbar-links{
+    display:flex;
+    color:white !important;
+    gap: 25px;
+}
+
+.navbar-links a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+.navbar-login-links{
+    display:flex;
+    color:white;
+    gap: 15px;
+}

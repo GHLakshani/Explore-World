@@ -1,0 +1,23 @@
+.footer_container{
+    /* display: flex; */
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;  
+    
+   
+}
+
+.logo_img {
+    padding-left: 100px;
+    max-width: 300px; /* Adjust the maximum width as needed */
+    height: auto;
+    padding-top: 30px;
+}
+
+.footer_links{
+    color:white;
+    padding-top: 20px;
+    padding-left: 100px;
+}
